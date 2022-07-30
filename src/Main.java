@@ -15,7 +15,7 @@ public class Main {
 		contas.add(poupanca);
 		
 		Banco banco = new Banco();
-		banco.setNome("Bradesco");
+		banco.setNome("Santander");
 		banco.setContas(contas);
 		
 
